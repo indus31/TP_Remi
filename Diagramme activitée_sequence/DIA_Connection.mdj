@@ -25,7 +25,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGKF+TnKZSgx4g="
 							},
-							"name": "ActivityDiagram1",
+							"name": "ActivityDiagram_connexion",
 							"ownedViews": [
 								{
 									"_type": "UMLSwimlaneView",
@@ -4001,7 +4001,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGKGAQDZpf50kU="
 							},
-							"name": "SequenceDiagram1",
+							"name": "SequenceDiagram_connexion",
 							"ownedViews": [
 								{
 									"_type": "UMLFrameView",
@@ -4020,9 +4020,9 @@
 												"$ref": "AAAAAAGKGAQDZpf75x8="
 											},
 											"font": "Arial;13;0",
-											"left": 32.72998046875,
+											"left": 30.55908203125,
 											"top": 5,
-											"width": 115.9052734375,
+											"width": 102.791015625,
 											"height": 13,
 											"text": "SequenceDiagram1"
 										},
@@ -4035,7 +4035,7 @@
 											"font": "Arial;13;1",
 											"left": 13,
 											"top": 5,
-											"width": 14.72998046875,
+											"width": 12.55908203125,
 											"height": 13,
 											"text": "sd"
 										}
@@ -6165,7 +6165,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGKGAQDZZf4M5o="
 					},
-					"name": "Role1"
+					"name": "Role1",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -6173,7 +6174,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGKGAQDZZf4M5o="
 					},
-					"name": "Role2"
+					"name": "Role2",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
@@ -6181,7 +6183,8 @@
 					"_parent": {
 						"$ref": "AAAAAAGKGAQDZZf4M5o="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				}
 			]
 		}
