@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Activity1",
+					"name": "Activity_afficher_suivi_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -2631,7 +2631,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Collaboration1",
+					"name": "sequence_afficher_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -2639,7 +2639,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHI9IHEGWgCA="
 							},
-							"name": "Interaction1",
+							"name": "sequence_afficher_intervention",
 							"ownedElements": [
 								{
 									"_type": "UMLSequenceDiagram",
@@ -2666,9 +2666,9 @@
 														"$ref": "AAAAAAGKHI9IHUGZ4MA="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 232.740234375,
+													"width": 212.28173828125,
 													"height": 13,
 													"text": "SequenceDiagram_afficher_intervention"
 												},
@@ -2681,7 +2681,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -4014,7 +4014,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHI9IHEGWgCA="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4022,7 +4023,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHI9IHEGWgCA="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -4030,7 +4032,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHI9IHEGWgCA="
 							},
-							"name": "Role3"
+							"name": "Role3",
+							"type": ""
 						}
 					]
 				},
@@ -4040,7 +4043,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Activity1",
+					"name": "Activity_afficher_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -6593,7 +6596,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Collaboration2",
+					"name": "sequence_suivi_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -6628,9 +6631,9 @@
 														"$ref": "AAAAAAGKHKmxgkkauwA="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 216.3505859375,
+													"width": 197.39013671875,
 													"height": 13,
 													"text": "SequenceDiagram_suivi_intervention"
 												},
@@ -6643,7 +6646,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -11614,7 +11617,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHKmxgkkXT5c="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -11622,7 +11626,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHKmxgkkXT5c="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -11630,7 +11635,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHKmxgkkXT5c="
 							},
-							"name": "Role3"
+							"name": "Role3",
+							"type": ""
 						}
 					]
 				},
@@ -11640,7 +11646,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Activity1",
+					"name": "Activity_demande_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLActivityDiagram",
@@ -15056,9 +15062,9 @@
 														"$ref": "AAAAAAGKHTDoDlgCCzk="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 5,
-													"width": 236.58056640625,
+													"width": 216.87109375,
 													"height": 13,
 													"text": "SequenceDiagram_modifier_intervention"
 												},
@@ -15071,7 +15077,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 5,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -17782,7 +17788,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Collaboration3",
+					"name": "sequence_demande_intervention",
 					"ownedElements": [
 						{
 							"_type": "UMLInteraction",
@@ -17817,9 +17823,9 @@
 														"$ref": "AAAAAAGKHQvXeE0rwSE="
 													},
 													"font": "Arial;13;0",
-													"left": 32.72998046875,
+													"left": 30.55908203125,
 													"top": 13,
-													"width": 244.55322265625,
+													"width": 219.029296875,
 													"height": 13,
 													"text": "SequenceDiagram_demande_intervention"
 												},
@@ -17832,7 +17838,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 13,
-													"width": 14.72998046875,
+													"width": 12.55908203125,
 													"height": 13,
 													"text": "sd"
 												}
@@ -20078,7 +20084,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHQvXeE0o2X8="
 							},
-							"name": "Role1"
+							"name": "Role1",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -20086,7 +20093,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHQvXeE0o2X8="
 							},
-							"name": "Role2"
+							"name": "Role2",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -20094,7 +20102,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGKHQvXeE0o2X8="
 							},
-							"name": "Role3"
+							"name": "Role3",
+							"type": ""
 						}
 					]
 				}
